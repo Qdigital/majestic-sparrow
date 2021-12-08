@@ -543,3 +543,6 @@ models:
   content:
     type: data
     label: content
+    fields:
+      - name: ''
+        type: string
