@@ -21,6 +21,12 @@
             {
                 "label": "Ipsum",
                 "url": "/ipsum/"
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "new_window": false,
+                "no_follow": false
             }
         ]
     },
@@ -52,7 +58,34 @@
                 "label": "DEV",
                 "url": "https://dev.to/",
                 "new_window": true
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "new_window": false,
+                "no_follow": false
+            }
+        ],
+        "links": [
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "new_window": false,
+                "no_follow": false
+            },
+            {
+                "label": "lorem-ipsum",
+                "url": "#",
+                "new_window": false,
+                "no_follow": false
             }
         ]
-    }
+    },
+    "domain": "https://majestic-sparrow-0b0c1.netlify.app"
 }
